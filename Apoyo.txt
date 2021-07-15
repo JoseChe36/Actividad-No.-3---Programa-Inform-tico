@@ -1,1 +1,1 @@
-boolean var = 3 + 4;
+boolean a = 3 < 5;
